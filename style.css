@@ -1,16 +1,21 @@
-.body {
-    background-color: black;
+body {
+    background-color: orangered;
 }
 
-.nav {
-    background-color: grey;
-    color: whitesmoke;
+h3{
+    font-family: Verdana, Tahoma, sans-serif;
+    color: orange;
+}
+
+nav {
+    background-color: rgb(94, 92, 92);
     font-size: large;
 
 }
 
-.card {
+.card-body {
     background-color: orange;
     text-align: center;
+    border-color: transparent;
 
 }
