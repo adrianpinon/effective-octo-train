@@ -8,13 +8,15 @@ h3{
 ul {
 
     background-color: rgba(112,128,144,255);
-    font-size: x-large;
+    font-size: large;
     min-height: 10rem;
     padding-top: 3rem;
+    padding-bottom: 3rem;
+    align-self:center;
 }
 .nav-item {
     background-color: whitesmoke;
-    border-bottom: 4rem
+    border-bottom: 7rem,
     
 }
 
@@ -28,7 +30,20 @@ ul {
     border-color: transparent;
     border-radius: 1rem;
 }
+
+
 button {
     color: orange;
     max-width: 10rem;
 }
+
+a:hover {
+    font-size: x-large;
+    background-color: rgb(190, 187, 187);
+    border-radius: 1rem;
+}
+
+.br {
+    color: rgb(245, 8, 8);
+}
+
