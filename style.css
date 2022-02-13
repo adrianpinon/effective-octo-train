@@ -7,9 +7,10 @@ h3{
     color: orange;
 }
 
-nav {
+ul {
     background-color: rgb(94, 92, 92);
-    font-size: large;
+    font-size: x-large;
+    min-height: 180px;
 
 }
 
