@@ -1,6 +1,4 @@
-body {
-    background-color: orangered;
-}
+
 
 h3{
     font-family: Verdana, Tahoma, sans-serif;
@@ -8,15 +6,24 @@ h3{
 }
 
 ul {
-    background-color: rgb(94, 92, 92);
+
+    background-color: rgba(112,128,144,255);
     font-size: x-large;
     min-height: 180px;
+}
 
+.li {
+    color: whitesmoke;
 }
 
 .card-body {
-    background-color: orange;
+    background-color: rgba(254,141,63,255);
     text-align: center;
     border-color: transparent;
+    border-radius: 12px;
+    border-style:hidden
 
+}
+.button {
+    color: orange;
 }
