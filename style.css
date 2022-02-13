@@ -9,7 +9,13 @@ ul {
 
     background-color: rgba(112,128,144,255);
     font-size: x-large;
-    min-height: 180px;
+    min-height: 10rem;
+    padding-top: 3rem;
+}
+.nav-item {
+    background-color: whitesmoke;
+    border-bottom: 4rem
+    
 }
 
 .li {
@@ -20,10 +26,9 @@ ul {
     background-color: rgba(254,141,63,255);
     text-align: center;
     border-color: transparent;
-    border-radius: 12px;
-    border-style:hidden
-
+    border-radius: 1rem;
 }
-.button {
+button {
     color: orange;
+    max-width: 10rem;
 }
