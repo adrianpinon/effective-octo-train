@@ -1,5 +1,10 @@
+.body {
+    background-color: black;
+}
+
 .nav {
     background-color: grey;
+    color: whitesmoke;
     font-size: large;
 
 }
