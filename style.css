@@ -13,15 +13,12 @@ ul {
     padding-top: 3rem;
     padding-bottom: 3rem;
     align-self:center;
+
 }
 .nav-item {
-    background-color: whitesmoke;
-    border-bottom: 7rem,
-    
-}
+    background-color: white;
+    border-radius: 1rem,
 
-.li {
-    color: whitesmoke;
 }
 
 .card-body {
@@ -32,10 +29,12 @@ ul {
 }
 
 
-button {
+
+
+/* button {
     color: orange;
     max-width: 10rem;
-}
+} */
 
 a:hover {
     font-size: x-large;
@@ -43,7 +42,7 @@ a:hover {
     border-radius: 1rem;
 }
 
-.br {
+/* .br {
     color: rgb(245, 8, 8);
-}
+} */
 
