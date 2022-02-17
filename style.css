@@ -1,20 +1,17 @@
-
-
 h3{
-    font-family: Verdana, Tahoma, sans-serif;
+    font-family: "Lucida Console", Courier, monospace;
     color: orange;
 }
 
 ul {
-
     background-color: rgba(112,128,144,255);
     font-size: large;
     min-height: 10rem;
     padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-bottom: 1rem;
     align-self:center;
-
 }
+
 .nav-item {
     background-color: white;
     border-radius: 1rem,
@@ -28,21 +25,9 @@ ul {
     border-radius: 1rem;
 }
 
-
-
-
-/* button {
-    color: orange;
-    max-width: 10rem;
-} */
-
 a:hover {
     font-size: x-large;
     background-color: rgb(190, 187, 187);
     border-radius: 1rem;
 }
-
-/* .br {
-    color: rgb(245, 8, 8);
-} */
 
